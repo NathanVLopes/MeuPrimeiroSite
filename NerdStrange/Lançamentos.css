@@ -1,0 +1,302 @@
+body  {
+    color: #0074FA;
+    -webkit-text-stroke-width: 5px;
+    -webkit-text-stroke-color: #070000;
+    font-family: Arial, Helvetica, sans-serif;
+    background-attachment:fixed ;
+    background-image: url(https://i1.wp.com/emotioncard.com.br/wp-content/uploads/2019/04/plano-de-fundo-preto19.jpg?fit=1680%2C1120&ssl=1);
+    
+}
+h1 { 
+    text-align: center;
+    font-size: 75px;
+    padding: 20px;
+
+}
+
+ul {
+    display:flex;
+    justify-content: space-between;
+    list-style-type: none;
+    text-align: center;
+    padding: 30px 150px;
+    margin-bottom:50px ;
+}
+li {
+    width: 200px;
+}
+
+a {
+    text-decoration: none; 
+    color: white;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: #070000;
+    font-size: 20px;
+}
+nav a:hover {
+    Color: #0074FA;
+    
+}
+p{
+    color: white;
+    text-decoration: none; 
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #070000;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.meses{
+    color: #0074FA;
+    -webkit-text-stroke-width: 4px;
+    -webkit-text-stroke-color: #070000;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 60px;
+    padding: 20px;
+    margin-top:50px;
+}
+.pequenos{
+    color: #0074FA;
+    -webkit-text-stroke-width: 4px;
+    -webkit-text-stroke-color: #070000;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 60px;
+    padding: 83px;
+    margin-top:50px ;
+    margin-bottom:1px ;    
+}
+.ano{
+    color: #0074FA;
+    -webkit-text-stroke-width: 4px;
+    -webkit-text-stroke-color: #070000;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 45px;
+    padding:50px;
+    margin-top:100px ;
+    margin-bottom:1px ;
+}
+img{
+    margin: 20px 10px;
+    width: 250px;
+    height: 300px;
+    border:5px solid #000000;
+}
+.um{
+    text-align: center;
+}
+
+.forspoken {
+    background-color: rgba(0, 0, 0, 0.445);
+    text-align: center;
+    margin-left: 260px;
+    margin-top: 1px;
+    width: 250px;
+    height: 80px;
+    border:5px solid #000000;
+    float: left;
+    margin-bottom:80px ;
+}
+.DeadSpace{
+    background-color: rgba(0, 0, 0, 0.445);
+    text-align: center;
+    margin-left: 22px;
+    margin-top: 1px;
+    width: 250px;
+    height: 80px;
+    border:5px solid #000000;
+    float: left;
+    margin-bottom:80px ;
+    }
+.HogwartsLegacy{
+    background-color: rgba(0, 0, 0, 0.445);
+    text-align: center;
+    margin-left: 260px;
+    margin-top: 1px;
+    width: 250px;
+    height: 80px;
+    border:5px solid #000000;
+    float: left;
+    margin-bottom:80px ;
+     }
+        
+.sonsoftheforest{
+    background-color: rgba(0, 0, 0, 0.445);
+    text-align: center;
+    margin-left: 22px;
+    margin-top: 1px;
+    width: 250px;
+    height: 80px;
+    border:5px solid #000000;
+    float: left;
+    margin-bottom:80px ;
+    }
+.WoLong{
+    background-color: rgba(0, 0, 0, 0.445);
+    text-align: center;
+    margin-left: 117px;
+    margin-top: 1px;
+    width: 250px;
+    height: 80px;
+    border:5px solid #000000;
+    float: left;
+    margin-bottom:80px ;
+    }   
+.RE4{
+    background-color: rgba(0, 0, 0, 0.445);
+    text-align: center;
+    margin-left: 23px;
+    margin-top: 1px;
+    width: 250px;
+    height: 80px;
+    border:5px solid #000000;
+    float: left;
+    margin-bottom:80px ;
+    }       
+.TLOU{
+    background-color: rgba(0, 0, 0, 0.445);
+    text-align: center;
+    margin-left: 25px;
+    margin-top: 1px;
+    width: 250px;
+    height: 80px;
+    border:5px solid #000000;
+    float: left;
+    margin-bottom:80px ;
+    }   
+.burningshores{
+    background-color: rgba(0, 0, 0, 0.445);
+    text-align: center;
+    margin-left: 117px;
+    margin-top: 1px;
+    width: 250px;
+    height: 80px;
+    border:5px solid #000000;
+    float: left;
+    margin-bottom:80px ;
+    }  
+.deadisland2{
+    background-color: rgba(0, 0, 0, 0.445);
+    text-align: center;
+    margin-left: 23px;
+    margin-top: 1px;
+    width: 250px;
+    height: 80px;
+    border:5px solid #000000;
+    float: left;
+    margin-bottom:80px ;
+}
+.jedisurvivor{
+    background-color: rgba(0, 0, 0, 0.445);
+    text-align: center;
+    margin-left: 25px;
+    margin-top: 1px;
+    width: 250px;
+    height: 80px;
+    border:5px solid #000000;
+    float: left;
+    margin-bottom:80px ;
+    }  
+.Redfall{
+    background-color: rgba(0, 0, 0, 0.445);
+    text-align: center;
+    margin-left: 117px;
+    margin-top: 1px;
+    width: 250px;
+    height: 80px;
+    border:5px solid #000000;
+    float: left;
+    margin-bottom:80px ;
+        }  
+.zeldatotk{
+    background-color: rgba(0, 0, 0, 0.445);
+    text-align: center;
+    margin-left: 23px;
+    margin-top: 1px;
+    width: 250px;
+    height: 80px;
+    border:5px solid #000000;
+    float: left;
+    margin-bottom:80px ;
+    }
+.suicidesquad{
+    background-color: rgba(0, 0, 0, 0.445);
+    text-align: center;
+    margin-left: 25px;
+    margin-top: 1px;
+    width: 250px;
+    height: 80px;
+    border:5px solid #000000;
+    float: left;
+    margin-bottom:80px ;
+    }  
+.streetFigthter{
+    background-color: rgba(0, 0, 0, 0.445);
+    text-align: center;
+    margin-left: 117px;
+    margin-top: 1px;
+    width: 250px;
+    height: 80px;
+    border:5px solid #000000;
+    float: left;
+    margin-bottom:80px ;
+     }  
+.Diablo{
+    background-color: rgba(0, 0, 0, 0.445);
+    text-align: center;
+    margin-left: 23px;
+    margin-top: 1px;
+    width: 250px;
+    height: 80px;
+    border:5px solid #000000;
+    float: left;
+    margin-bottom:80px ;
+    }
+.finalfantasyxvi{
+    background-color: rgba(0, 0, 0, 0.445);
+    text-align: center;
+    margin-left: 25px;
+    margin-top: 1px;
+    width: 250px;
+    height: 80px;
+    border:5px solid #000000;
+    float: left;
+    margin-bottom:80px ;
+    }
+.Starfield{
+    background-color: rgba(0, 0, 0, 0.445);
+    text-align: center;
+    margin-left: 400px;
+    margin-top: 1px;
+    width: 250px;
+    height: 80px;
+    border:5px solid #000000;
+    float: left;
+    margin-bottom:80px 
+}  
+.Alanwake {
+    background-color: rgba(0, 0, 0, 0.445);
+    text-align: center;
+    margin-left: 260px;
+    margin-top: 1px;
+    width: 250px;
+    height: 80px;
+    border:5px solid #000000;
+    float: left;
+    margin-bottom:80px ;
+}
+.spiderman2{
+    background-color: rgba(0, 0, 0, 0.445);
+    text-align: center;
+    margin-left: 22px;
+    margin-top: 1px;
+    width: 250px;
+    height: 80px;
+    border:5px solid #000000;
+    float: left;
+    margin-bottom:80px ;
+}
+      
+        
